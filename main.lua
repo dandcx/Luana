@@ -1,1 +1,3 @@
-print('Hello world!')
+local console = require('Modules/console')
+
+console.log('Hello World!')
